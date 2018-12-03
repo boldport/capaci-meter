@@ -1,0 +1,1569 @@
+{
+  "components": {
+    "0.99\u00b5F": {
+      "footprint": "1x2-header", 
+      "layer": "top", 
+      "location": [
+        23.900247, 
+        -21.832783
+      ], 
+      "rotate": 90, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            -2.3
+          ], 
+          "rotate": 0
+        }
+      }
+    }, 
+    "9.9nF": {
+      "footprint": "1x2-header", 
+      "layer": "top", 
+      "location": [
+        13.740247, 
+        -21.832783
+      ], 
+      "rotate": 90, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            -2.3
+          ], 
+          "rotate": 0
+        }
+      }
+    }, 
+    "9.9\u00b5F": {
+      "footprint": "1x2-header", 
+      "layer": "top", 
+      "location": [
+        28.980247, 
+        -21.832783
+      ], 
+      "rotate": 90, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            -2.3
+          ], 
+          "rotate": 0
+        }
+      }
+    }, 
+    "99nF": {
+      "footprint": "1x2-header", 
+      "layer": "top", 
+      "location": [
+        18.820247, 
+        -21.832783
+      ], 
+      "rotate": 90, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            -2.3
+          ], 
+          "rotate": 0
+        }
+      }
+    }, 
+    "C1": {
+      "footprint": "cap_th_elec_4mm", 
+      "layer": "top", 
+      "location": [
+        0, 
+        7.387588
+      ], 
+      "rotate": 180, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            3.175, 
+            -0.529167
+          ], 
+          "rotate": 180
+        }
+      }
+    }, 
+    "C2": {
+      "footprint": "cap_th_elec_4mm", 
+      "layer": "top", 
+      "location": [
+        -32.959698, 
+        -1.995267
+      ], 
+      "rotate": 135, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            -2.778177, 
+            1.870888
+          ], 
+          "rotate": 180
+        }
+      }
+    }, 
+    "C3": {
+      "footprint": "cap_th_2mm54", 
+      "layer": "top", 
+      "location": [
+        -12.317898, 
+        5.897414
+      ], 
+      "rotate": -45, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            4.377509, 
+            -0.0
+          ], 
+          "rotate": 0
+        }
+      }
+    }, 
+    "C4": {
+      "footprint": "cap_th_2mm54", 
+      "layer": "top", 
+      "location": [
+        24.901651, 
+        6.036409
+      ], 
+      "rotate": -45, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            4.37751, 
+            -0.0
+          ], 
+          "rotate": 0
+        }
+      }
+    }, 
+    "C5": {
+      "footprint": "cap_th_2mm54", 
+      "layer": "top", 
+      "location": [
+        0, 
+        -0.965261
+      ], 
+      "rotate": 0, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            -4.1537, 
+            0
+          ], 
+          "rotate": 0
+        }
+      }
+    }, 
+    "C6": {
+      "footprint": "cap_th_2mm54", 
+      "layer": "top", 
+      "location": [
+        -18.117245, 
+        -9.590931
+      ], 
+      "rotate": 45, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            4.377511, 
+            -1e-06
+          ], 
+          "rotate": 0
+        }
+      }
+    }, 
+    "C7": {
+      "footprint": "cap_th_2mm54", 
+      "layer": "top", 
+      "location": [
+        0, 
+        -8.010282
+      ], 
+      "rotate": 0, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            4.1537, 
+            0
+          ], 
+          "rotate": 0
+        }
+      }
+    }, 
+    "C8": {
+      "footprint": "cap_th_5mm08", 
+      "layer": "top", 
+      "location": [
+        -23.945686, 
+        -24.249458
+      ], 
+      "rotate": 45, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "rotate": 0
+        }
+      }
+    }, 
+    "D1": {
+      "footprint": "1N4148_DO35", 
+      "layer": "top", 
+      "location": [
+        0, 
+        15.158981
+      ], 
+      "rotate": 90, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "rotate": 0
+        }
+      }
+    }, 
+    "D2": {
+      "footprint": "1N4148_DO35", 
+      "layer": "top", 
+      "location": [
+        11.725166, 
+        -9.925834
+      ], 
+      "rotate": 90, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "rotate": 0
+        }
+      }
+    }, 
+    "D3": {
+      "footprint": "1N4148_DO35", 
+      "layer": "top", 
+      "location": [
+        8.818811, 
+        -8.338334
+      ], 
+      "rotate": 90, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "rotate": 0
+        }
+      }
+    }, 
+    "D4": {
+      "footprint": "1N4148_DO35", 
+      "layer": "top", 
+      "location": [
+        -12.236976, 
+        -10.859489
+      ], 
+      "rotate": 45, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "rotate": 0
+        }
+      }
+    }, 
+    "J1": {
+      "footprint": "1x2-header", 
+      "layer": "top", 
+      "location": [
+        -7.308683, 
+        28.485608
+      ], 
+      "rotate": 0, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            -2.037033
+          ], 
+          "rotate": 180
+        }
+      }
+    }, 
+    "J2": {
+      "footprint": "1x2-header", 
+      "layer": "top", 
+      "location": [
+        7.308683, 
+        28.485608
+      ], 
+      "rotate": 0, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            -2.037033
+          ], 
+          "rotate": 180
+        }
+      }
+    }, 
+    "J3": {
+      "footprint": "battery", 
+      "layer": "top", 
+      "location": [
+        0, 
+        24.819531
+      ], 
+      "rotate": 180, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            -2.116668
+          ], 
+          "rotate": 0, 
+          "show": false
+        }
+      }
+    }, 
+    "LED1-L": {
+      "footprint": "led-red", 
+      "layer": "top", 
+      "location": [
+        -18.520835, 
+        26.170835
+      ], 
+      "rotate": 0, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "LED1-R": {
+      "footprint": "led-red", 
+      "layer": "top", 
+      "location": [
+        18.520835, 
+        26.170835
+      ], 
+      "rotate": 0, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "LED10-L": {
+      "footprint": "led-green", 
+      "layer": "top", 
+      "location": [
+        -32.520836, 
+        12.170834
+      ], 
+      "rotate": 0, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "LED10-R": {
+      "footprint": "led-green", 
+      "layer": "top", 
+      "location": [
+        4.520833, 
+        12.170834
+      ], 
+      "rotate": 0, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "LED2-L": {
+      "footprint": "led-green", 
+      "layer": "top", 
+      "location": [
+        -11.520834, 
+        24.294835
+      ], 
+      "rotate": 0, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "LED2-R": {
+      "footprint": "led-green", 
+      "layer": "top", 
+      "location": [
+        25.520836, 
+        24.294835
+      ], 
+      "rotate": 0, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "LED3-L": {
+      "footprint": "led-green", 
+      "layer": "top", 
+      "location": [
+        -6.396833, 
+        19.170835
+      ], 
+      "rotate": 0, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "LED3-R": {
+      "footprint": "led-green", 
+      "layer": "top", 
+      "location": [
+        30.644836, 
+        19.170835
+      ], 
+      "rotate": 0, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "LED4-L": {
+      "footprint": "led-green", 
+      "layer": "top", 
+      "location": [
+        -4.520833, 
+        12.170834
+      ], 
+      "rotate": 0, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "LED4-R": {
+      "footprint": "led-green", 
+      "layer": "top", 
+      "location": [
+        32.520836, 
+        12.170834
+      ], 
+      "rotate": 0, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "LED5-L": {
+      "footprint": "led-green", 
+      "layer": "top", 
+      "location": [
+        -6.396833, 
+        5.170833
+      ], 
+      "rotate": 0, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "LED5-R": {
+      "footprint": "led-green", 
+      "layer": "top", 
+      "location": [
+        30.644836, 
+        5.170833
+      ], 
+      "rotate": 0, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "LED6-L": {
+      "footprint": "led-green", 
+      "layer": "top", 
+      "location": [
+        -11.520834, 
+        0.046833
+      ], 
+      "rotate": 0, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "LED6-R": {
+      "footprint": "led-green", 
+      "layer": "top", 
+      "location": [
+        25.520836, 
+        0.046833
+      ], 
+      "rotate": 0, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "LED7-L": {
+      "footprint": "led-green", 
+      "layer": "top", 
+      "location": [
+        -18.520835, 
+        -1.829167
+      ], 
+      "rotate": 0, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "LED7-R": {
+      "footprint": "led-green", 
+      "layer": "top", 
+      "location": [
+        18.520835, 
+        -1.829167
+      ], 
+      "rotate": 0, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "LED8-L": {
+      "footprint": "led-green", 
+      "layer": "top", 
+      "location": [
+        -25.520836, 
+        0.046833
+      ], 
+      "rotate": 0, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "LED8-R": {
+      "footprint": "led-green", 
+      "layer": "top", 
+      "location": [
+        11.520834, 
+        0.046833
+      ], 
+      "rotate": 0, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "LED9-L": {
+      "footprint": "led-green", 
+      "layer": "top", 
+      "location": [
+        -30.644836, 
+        5.170833
+      ], 
+      "rotate": 0, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "LED9-R": {
+      "footprint": "led-green", 
+      "layer": "top", 
+      "location": [
+        6.396833, 
+        5.170833
+      ], 
+      "rotate": 0, 
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        }
+      }
+    }, 
+    "MH1": {
+      "footprint": "mounting-hole", 
+      "layer": "top", 
+      "location": [
+        -33.437868, 
+        26.68559
+      ], 
+      "rotate": 0, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "rotate": 0, 
+          "show": false
+        }
+      }
+    }, 
+    "MH2": {
+      "footprint": "mounting-hole", 
+      "layer": "top", 
+      "location": [
+        33.437868, 
+        26.68559
+      ], 
+      "rotate": 0, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "rotate": 0, 
+          "show": false
+        }
+      }
+    }, 
+    "MH3": {
+      "footprint": "mounting-hole", 
+      "layer": "top", 
+      "location": [
+        -33.437868, 
+        -26.68559
+      ], 
+      "rotate": 0, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "rotate": 0, 
+          "show": false
+        }
+      }
+    }, 
+    "MH4": {
+      "footprint": "mounting-hole", 
+      "layer": "top", 
+      "location": [
+        33.437868, 
+        -26.68559
+      ], 
+      "rotate": 0, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "rotate": 0, 
+          "show": false
+        }
+      }
+    }, 
+    "Q1": {
+      "footprint": "2N7000_TO92", 
+      "layer": "top", 
+      "location": [
+        -6.540424, 
+        -6.195533
+      ], 
+      "rotate": -135, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            4.625906, 
+            1.632487
+          ], 
+          "rotate": 180
+        }
+      }
+    }, 
+    "R1": {
+      "footprint": "res_th", 
+      "layer": "top", 
+      "location": [
+        32.069655, 
+        -10.455001
+      ], 
+      "rotate": 90, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "rotate": -90
+        }
+      }
+    }, 
+    "R1'": {
+      "footprint": "res_hole_cut", 
+      "layer": "top", 
+      "location": [
+        34.976011, 
+        -10.455001
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            1.0, 
+            0
+          ], 
+          "rotate": -90
+        }
+      }
+    }, 
+    "R10": {
+      "footprint": "res_th", 
+      "layer": "top", 
+      "location": [
+        -31.098518, 
+        -16.680349
+      ], 
+      "rotate": 45, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "rotate": 0
+        }
+      }
+    }, 
+    "R11": {
+      "footprint": "res_th", 
+      "layer": "top", 
+      "location": [
+        -31.197604, 
+        -21.780591
+      ], 
+      "rotate": 45, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "rotate": 0
+        }
+      }
+    }, 
+    "R12": {
+      "footprint": "res_th", 
+      "layer": "top", 
+      "location": [
+        -14.491206, 
+        -23.166966
+      ], 
+      "rotate": -45, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "rotate": 0
+        }
+      }
+    }, 
+    "R2": {
+      "footprint": "res_th", 
+      "layer": "top", 
+      "location": [
+        26.256947, 
+        -10.455001
+      ], 
+      "rotate": 90, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "rotate": -90
+        }
+      }
+    }, 
+    "R2'": {
+      "footprint": "res_hole_cut", 
+      "layer": "top", 
+      "location": [
+        29.163303, 
+        -10.455001
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            1.0, 
+            0
+          ], 
+          "rotate": -90
+        }
+      }
+    }, 
+    "R3": {
+      "footprint": "res_th", 
+      "layer": "top", 
+      "location": [
+        20.444235, 
+        -10.455001
+      ], 
+      "rotate": 90, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "rotate": -90
+        }
+      }
+    }, 
+    "R3'": {
+      "footprint": "res_hole_cut", 
+      "layer": "top", 
+      "location": [
+        23.350591, 
+        -10.455001
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            1.0, 
+            0
+          ], 
+          "rotate": -90
+        }
+      }
+    }, 
+    "R4": {
+      "footprint": "res_th", 
+      "layer": "top", 
+      "location": [
+        14.631524, 
+        -10.455001
+      ], 
+      "rotate": 90, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "rotate": -90
+        }
+      }
+    }, 
+    "R4'": {
+      "footprint": "res_hole_cut", 
+      "layer": "top", 
+      "location": [
+        17.537882, 
+        -10.455001
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            1.0, 
+            0
+          ], 
+          "rotate": -90
+        }
+      }
+    }, 
+    "R5": {
+      "footprint": "res_th", 
+      "layer": "top", 
+      "location": [
+        -14.786543, 
+        18.533013
+      ], 
+      "rotate": 45, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "rotate": 0
+        }
+      }
+    }, 
+    "R6": {
+      "footprint": "res_th", 
+      "layer": "top", 
+      "location": [
+        22.277957, 
+        18.618968
+      ], 
+      "rotate": 45, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "rotate": 0
+        }
+      }
+    }, 
+    "R7": {
+      "footprint": "res_th", 
+      "layer": "top", 
+      "location": [
+        12.794164, 
+        7.638334
+      ], 
+      "rotate": 45, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "rotate": 0
+        }
+      }
+    }, 
+    "R8": {
+      "footprint": "res_th", 
+      "layer": "top", 
+      "location": [
+        -31.414219, 
+        -6.24422
+      ], 
+      "rotate": -45, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "rotate": 0
+        }
+      }
+    }, 
+    "R9": {
+      "footprint": "res_th", 
+      "layer": "top", 
+      "location": [
+        -10.161217, 
+        -8.16944
+      ], 
+      "rotate": 45, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "rotate": 0
+        }
+      }
+    }, 
+    "TP1": {
+      "footprint": "solder-holes", 
+      "layer": "top", 
+      "location": [
+        -7.06, 
+        -20.500305
+      ], 
+      "rotate": 0, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "rotate": 0, 
+          "show": false
+        }
+      }
+    }, 
+    "TP10": {
+      "footprint": "solder-holes-1mm", 
+      "layer": "top", 
+      "location": [
+        3.530833, 
+        -21.590211
+      ], 
+      "rotate": 0, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "rotate": 0, 
+          "show": false
+        }
+      }
+    }, 
+    "TP2": {
+      "footprint": "solder-holes", 
+      "layer": "top", 
+      "location": [
+        7.06, 
+        -20.500305
+      ], 
+      "rotate": 0, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "rotate": 0, 
+          "show": false
+        }
+      }
+    }, 
+    "TP3": {
+      "footprint": "testing_holes_1mm27", 
+      "layer": "top", 
+      "location": [
+        0, 
+        -23.421819
+      ], 
+      "rotate": 0, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "rotate": 0, 
+          "show": false
+        }
+      }
+    }, 
+    "TP4": {
+      "footprint": "testing_holes_2mm54", 
+      "layer": "top", 
+      "location": [
+        0, 
+        -25.123636
+      ], 
+      "rotate": 0, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "rotate": 0, 
+          "show": false
+        }
+      }
+    }, 
+    "TP5": {
+      "footprint": "banana-jack", 
+      "layer": "top", 
+      "location": [
+        7.06, 
+        -25.198726
+      ], 
+      "rotate": 0, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "rotate": 0, 
+          "show": false
+        }
+      }
+    }, 
+    "TP6": {
+      "footprint": "banana-jack", 
+      "layer": "top", 
+      "location": [
+        -7.06, 
+        -25.198726
+      ], 
+      "rotate": 0, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "rotate": 0, 
+          "show": false
+        }
+      }
+    }, 
+    "TP7": {
+      "footprint": "testing_holes_3mm81", 
+      "layer": "top", 
+      "location": [
+        0, 
+        -26.844772
+      ], 
+      "rotate": 0, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "rotate": 0, 
+          "show": false
+        }
+      }
+    }, 
+    "TP8": {
+      "footprint": "testing_holes_5mm08", 
+      "layer": "top", 
+      "location": [
+        0, 
+        -28.542119
+      ], 
+      "rotate": 0, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "rotate": 0, 
+          "show": false
+        }
+      }
+    }, 
+    "TP9": {
+      "footprint": "solder-holes-1mm", 
+      "layer": "top", 
+      "location": [
+        -3.530833, 
+        -21.590211
+      ], 
+      "rotate": 0, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "rotate": 0, 
+          "show": false
+        }
+      }
+    }, 
+    "U1": {
+      "footprint": "4017-DIP16", 
+      "layer": "top", 
+      "location": [
+        15.550002, 
+        15.141667
+      ], 
+      "rotate": 135, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "rotate": 0
+        }
+      }
+    }, 
+    "U2": {
+      "footprint": "4017-DIP16", 
+      "layer": "top", 
+      "location": [
+        -21.491668, 
+        15.141667
+      ], 
+      "rotate": 135, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "rotate": 0
+        }
+      }
+    }, 
+    "U3": {
+      "footprint": "LM556-DIP14", 
+      "layer": "top", 
+      "location": [
+        -23.079169, 
+        -14.6125
+      ], 
+      "rotate": -45, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "rotate": 0
+        }
+      }
+    }, 
+    "U4": {
+      "footprint": "78L05_TO92", 
+      "layer": "top", 
+      "location": [
+        0, 
+        2.533632
+      ], 
+      "rotate": 0, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            -2.341433, 
+            2.116667
+          ], 
+          "rotate": 0
+        }
+      }
+    }
+  }, 
+  "config": {
+    "name": "capaci-meter", 
+    "no-docs": false, 
+    "no-drill-index": false, 
+    "no-flashes": false, 
+    "no-layer-index": false, 
+    "rev": "first", 
+    "style-layout": "default", 
+    "units": "mm"
+  }, 
+  "distances": {
+    "from-pour-to": {
+      "drill": 0.3, 
+      "outline": 0.25, 
+      "pad": 0.25, 
+      "route": 0.25
+    }, 
+    "soldermask": {
+      "circle-buffer": 0.1, 
+      "path-scale": 1.1, 
+      "rect-buffer": 0.1
+    }, 
+    "solderpaste": {
+      "circle-buffer": -0.1, 
+      "path-scale": 0.9, 
+      "rect-buffer": -0.1
+    }
+  }, 
+  "documentation": {
+    "board-details": {
+      "font-family": "Overlock-Regular-OTF-webfont", 
+      "font-size": "1.5mm", 
+      "letter-spacing": "0mm", 
+      "line-height": "1.5mm", 
+      "location": [
+        51.565178, 
+        8.8417103
+      ], 
+      "rotate": 0, 
+      "style": "fill", 
+      "type": "text", 
+      "value": "Board details:\nName: Capaci-meter\nRevision: first\nDescription: A 555-based capacitance meter\nLicense: MIT\nDesign: Saar Drimer, Boldport\n    based on a design by Jez Siddons"
+    }, 
+    "manufacturing": {
+      "font-family": "Overlock-Regular-OTF-webfont", 
+      "font-size": "1.5mm", 
+      "letter-spacing": "0mm", 
+      "line-height": "1.5mm", 
+      "location": [
+        54.256912, 
+        -3.9176524
+      ], 
+      "rotate": 0, 
+      "style": "fill", 
+      "type": "text", 
+      "value": "Manufacturing:\nRoHS and lead free compliant manufacturing process\nUnit of length: Millimetre (mm)\nNumber of layers: 2 ('top', 'bottom')\nBoard thickness: 1.6 mm\nMaterial: FR4 35/35 um copper\nSilkscreen: top, bottom, white\nSoldermask: top, bottom, green\nSurface finish: any lead free"
+    }, 
+    "pcbmode": {
+      "font-family": "Overlock-Regular-OTF-webfont", 
+      "font-size": "1.2mm", 
+      "letter-spacing": "0mm", 
+      "line-height": "1.2mm", 
+      "location": [
+        50.440514, 
+        -14.546514
+      ], 
+      "rotate": 0, 
+      "style": "fill", 
+      "type": "text", 
+      "value": "Designed with PCBmodE, an open source software\n     http://pcbmode.com\nStay updated:\n     @boldport @pcbmode http://boldport.com"
+    }
+  }, 
+  "drill-index": {
+    "location": [
+      38.472383, 
+      -20.755983
+    ]
+  }, 
+  "drills": {}, 
+  "files": {
+    "routing-data": "capaci-meter_routing.json", 
+    "routing-svg": "capaci-meter.svg"
+  }, 
+  "gerber": {
+    "decimals": 6, 
+    "digits": 6, 
+    "min-segment-length": 0.05, 
+    "steps-per-segment": 100
+  }, 
+  "layer-control": {
+    "assembly": {
+      "hide": false, 
+      "lock": false, 
+      "place": true
+    }, 
+    "conductor": {
+      "hide": false, 
+      "lock": false, 
+      "pads": {
+        "hide": false, 
+        "lock": false, 
+        "place": true
+      }, 
+      "place": true, 
+      "pours": {
+        "hide": false, 
+        "lock": true, 
+        "place": true
+      }, 
+      "routing": {
+        "hide": false, 
+        "lock": false, 
+        "place": true
+      }
+    }, 
+    "dimensions": {
+      "hide": false, 
+      "lock": true, 
+      "place": true
+    }, 
+    "documentation": {
+      "hide": false, 
+      "lock": false, 
+      "place": true
+    }, 
+    "drills": {
+      "hide": false, 
+      "lock": false, 
+      "place": true
+    }, 
+    "origin": {
+      "hide": false, 
+      "lock": true, 
+      "place": true
+    }, 
+    "outline": {
+      "hide": false, 
+      "lock": true, 
+      "place": true
+    }, 
+    "placement": {
+      "hide": false, 
+      "lock": false, 
+      "place": true
+    }, 
+    "silkscreen": {
+      "hide": false, 
+      "lock": false, 
+      "place": true
+    }, 
+    "soldermask": {
+      "hide": false, 
+      "lock": false, 
+      "place": true
+    }, 
+    "solderpaste": {
+      "hide": true, 
+      "lock": true, 
+      "place": true
+    }
+  }, 
+  "outline": {
+    "shape": {
+      "height": 23.5, 
+      "radii": {
+        "bl": 2, 
+        "br": 2, 
+        "tl": 2, 
+        "tr": 2
+      }, 
+      "type": "path", 
+      "value": "m -0.57964697,21.660232 v 1.639018 l -0.96607013,2.579792 -0.3864281,1.031917 -0.3864281,1.031917 -0.386428,1.031917 -0.3864281,1.031917 h -9.6450446 c 0,0 -2.797886,-0.88062 -4.24549,-1.058333 -2.809237,-0.344872 -5.681743,-0.344872 -8.49098,0 -1.447604,0.177713 -4.24549,1.058333 -4.24549,1.058333 h -4.24549 l -2.87195,-2.89305 V 23.724453 20.335246 16.946039 13.556832 10.167625 6.7784184 c 0,0 0.440707,-2.2492111 0.529167,-3.389207 0.174801,-2.2526995 0.174801,-4.5257143 0,-6.7784138 -0.08846,-1.1399959 -0.529167,-3.389207 -0.529167,-3.389207 v -3.3892066 -3.389207 -3.389207 -3.389207 -3.389207 -3.389207 l 2.87195,-2.89306 h 4.24549 c 0,0 2.818769,0.523371 4.24549,0.628385 2.822691,0.207765 5.668289,0.207765 8.49098,0 1.426721,-0.105014 4.24549,-0.628385 4.24549,-0.628385 h 25.472939 c 0,0 2.818769,0.523371 4.24549,0.628385 2.822691,0.207765 5.668289,0.207765 8.49098,0 1.426721,-0.105014 4.24549,-0.628385 4.24549,-0.628385 h 4.24549 l 2.87196,2.89306 v 3.389207 3.389207 3.389207 3.389207 3.389207 3.3892066 c 0,0 -0.440707,2.2492111 -0.529167,3.389207 -0.174801,2.2526995 -0.174801,4.5257143 0,6.7784138 0.08846,1.1399959 0.529167,3.389207 0.529167,3.389207 v 3.3892066 3.389207 3.389207 3.389207 3.389207 3.389207 l -2.87196,2.89305 h -4.24549 c 0,0 -2.797886,-0.88062 -4.24549,-1.058333 -2.809237,-0.344872 -5.681743,-0.344872 -8.49098,0 -1.447604,0.177713 -4.24549,1.058333 -4.24549,1.058333 H 3.0914196 L 2.7049915,28.974793 2.3185635,27.942876 1.9321354,26.910959 1.5457074,25.879042 0.57963723,23.29925 v -1.639018 c 0,0 0.023182,-0.529167 -0.5796420966667,-0.529167 C -0.60282947,21.131065 -0.57964697,21.660232 -0.57964697,21.660232 Z", 
+      "width": 56.5
+    }
+  }, 
+  "shapes": {
+    "BC-POUR": {
+      "footprint": "background-pour", 
+      "layer": "top", 
+      "location": [
+        0, 
+        0
+      ], 
+      "rotate": 0
+    }, 
+    "BPL": {
+      "footprint": "boldport-logo-b", 
+      "layer": "top", 
+      "location": [
+        34.299324, 
+        -20.687814
+      ], 
+      "rotate": 0, 
+      "scale": 0.6
+    }, 
+    "DIAL-L": {
+      "footprint": "ss-dial", 
+      "layer": "top", 
+      "location": [
+        -18.074348, 
+        11.93993
+      ], 
+      "rotate": 0
+    }, 
+    "DIAL-R": {
+      "footprint": "ss-dial", 
+      "layer": "top", 
+      "location": [
+        18.934245, 
+        11.939979
+      ], 
+      "rotate": 0
+    }, 
+    "INFO": {
+      "footprint": "info", 
+      "layer": "top", 
+      "location": [
+        -24.16893, 
+        6.931113
+      ], 
+      "rotate": 45
+    }, 
+    "INFO-B": {
+      "footprint": "info-back", 
+      "layer": "bottom", 
+      "location": [
+        21.046548, 
+        -10.53845
+      ], 
+      "rotate": 0
+    }, 
+    "POURS": {
+      "footprint": "pours", 
+      "layer": "top", 
+      "location": [
+        0, 
+        -19.87966
+      ], 
+      "rotate": 0
+    }, 
+    "RNG": {
+      "footprint": "range-legend", 
+      "layer": "top", 
+      "location": [
+        20.815245, 
+        -21.772633
+      ], 
+      "rotate": 0
+    }, 
+    "SQR": {
+      "footprint": "squares", 
+      "layer": "top", 
+      "location": [
+        0, 
+        -1.825
+      ], 
+      "rotate": 0
+    }, 
+    "SYM": {
+      "footprint": "symbol", 
+      "layer": "bottom", 
+      "location": [
+        0, 
+        -15.103267
+      ], 
+      "rotate": 45, 
+      "scale": 0.45
+    }, 
+    "URL": {
+      "footprint": "url", 
+      "layer": "bottom", 
+      "location": [
+        -25.936198, 
+        -11.899977
+      ], 
+      "rotate": 45
+    }
+  }, 
+  "soldermask": {
+    "circle-buffer": 0.05, 
+    "path-scale": 1.05, 
+    "rect-buffer": 0.05
+  }, 
+  "solderpaste": {
+    "circle-buffer": -0.1, 
+    "path-scale": 0.9, 
+    "rect-buffer": -0.1
+  }, 
+  "stackup": {
+    "name": "two-layer"
+  }, 
+  "vias": {
+    "default-via": "VIA"
+  }
+}

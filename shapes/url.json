@@ -1,0 +1,25 @@
+{
+  "layout":
+  {
+    "silkscreen":
+    {
+      "shapes":
+      [
+        {
+          "font-family": "UbuntuMono-R-webfont", 
+          "font-size": "2.6mm", 
+          "letter-spacing": "0mm", 
+          "line-height": "2.2mm", 
+          "location": [
+             0, 
+             0
+           ], 
+           "rotate": 0, 
+           "style": "fill", 
+           "type": "text", 
+           "value": "More info:\nboldport.com/capaci"
+        }
+      ]
+    }
+  }
+}
