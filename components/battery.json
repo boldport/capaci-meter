@@ -1,0 +1,156 @@
+{
+  "pins":
+  {
+    "1":
+      {
+        "layout":
+        {
+    "pad": "pin",
+    "location": [-2.0, 0]
+        }
+     },
+     "2":
+     {
+       "layout":
+       {
+         "pad": "pin",
+         "location": [2.0, 0]
+       }
+    }
+  },
+  "layout":
+  {
+    "silkscreen":
+    {
+      "shapes": [
+          {
+            "location": [
+             0, 
+             0.775
+           ], 
+           "style": "fill", 
+           "type": "path", 
+           "value": "m -4.5629106,-25.952695 c -0.055465,0.313848 -0.1109309,0.627697 -0.1663964,0.941545 0.083371,0 0.1667421,0 0.2501132,0 0.049437,-0.225309 0.098875,-0.450619 0.1483122,-0.675928 0.1381478,0 0.2762956,0 0.4144434,0 0,-0.08854 0,-0.177078 0,-0.265617 -0.2154908,0 -0.4309816,0 -0.6464724,0 z m 8.5116246,0 c 0,0.08854 0,0.177078 0,0.265617 0.1381487,0 0.2762973,0 0.414446,0 0.049437,0.225309 0.098875,0.450619 0.1483121,0.675928 0.083371,0 0.1667422,0 0.2501133,0 -0.055466,-0.313848 -0.1109327,-0.627697 -0.1663991,-0.941545 -0.2154908,0 -0.4309815,0 -0.6464723,0 z m -8.678021,2.859774 c 0.055466,0.347438 0.1109309,0.694876 0.1663964,1.042314 0.2154908,0 0.4309816,0 0.6464724,0 0,-0.08854 0,-0.177078 0,-0.265617 -0.1381478,0 -0.2762956,0 -0.4144434,0 -0.049437,-0.258899 -0.098875,-0.517798 -0.1483122,-0.776697 -0.083371,0 -0.1667421,0 -0.2501132,0 z m 9.2407791,0 c -0.049437,0.258899 -0.098875,0.517798 -0.1483121,0.776697 -0.1381487,0 -0.2762973,0 -0.414446,0 0,0.08854 0,0.177078 0,0.265617 0.2154908,0 0.4309815,0 0.6464723,0 0.055466,-0.347438 0.1109327,-0.694876 0.1663991,-1.042314 -0.083371,0 -0.1667422,0 -0.2501133,0 z"
+        },
+        {
+          "font-family": "UbuntuMono-R-webfont", 
+          "font-size": "2.1mm", 
+          "letter-spacing": "0mm", 
+          "line-height": "2.1mm", 
+          "location": [
+             -5.6, 
+             0.85
+           ], 
+           "rotate": 0, 
+           "style": "fill", 
+           "type": "text", 
+           "value": "VIN"
+        },
+        {
+          "font-family": "UbuntuMono-R-webfont", 
+          "font-size": "2.1mm", 
+          "letter-spacing": "0mm", 
+          "line-height": "2.1mm", 
+          "location": [
+             5.6, 
+             0.85
+           ], 
+           "rotate": 0, 
+           "style": "fill", 
+           "type": "text", 
+           "value": "GND"
+        },
+        {
+          "font-family": "UbuntuMono-R-webfont", 
+          "layers": ["bottom"],
+          "rotate": -90,
+          "font-size": "2.1mm",
+          "letter-spacing": "0mm", 
+          "line-height": "2.3mm", 
+          "location": [
+             7.2, 
+             -0.1
+           ], 
+           "style": "fill", 
+           "type": "text", 
+           "value": "GND\nVREG"
+        },
+        {
+          "font-family": "UbuntuMono-R-webfont", 
+          "layers": ["bottom"],
+          "rotate": -90,
+          "font-size": "2.1mm",
+          "letter-spacing": "0mm", 
+          "line-height": "2.3mm", 
+          "location": [
+             -7.3, 
+             -0.6
+           ], 
+           "style": "fill", 
+           "type": "text", 
+           "value": "VIN\nGND"
+        }
+      ]
+    },
+    "assembly":
+    {
+      "shapes":
+      [
+        {
+          "type": "rect",
+          "width": 8.2,
+          "height": 6,
+          "location": [0, 1.2]
+        }
+      ]
+    }
+  },
+  "pads":
+  {
+    "pin":
+    {
+      "shapes":
+      [
+        {
+          "type": "rect",
+          "layers": ["top", "bottom"],
+          "width": 3,
+          "height": 5,
+          "radii": {
+            "bl": 0.25,
+            "br": 0.25,
+            "tl": 0.25,
+            "tr": 0.25
+          },
+          "location": [0,1.2],
+          "solderpaste": {}
+        },
+        {
+          "type": "circle",
+          "layers": ["top", "bottom"],
+          "diameter": 1,
+          "location": [0,-3.5],
+          "buffer-to-pour": 1,
+          "solderpaste": {},
+          "soldermask": {
+             "type": "circle",
+             "layers": ["top", "bottom"],
+             "diameter": 2.3,
+             "location": [0,-3.5]
+            }
+          }
+      ],
+      "drills":
+      [
+        {
+          "diameter": 2,
+          "location":[0,1.5]
+        },
+        {
+          "diameter": 2,
+          "location":[0,-3.5]
+        }
+      ]
+    }
+  }
+}
